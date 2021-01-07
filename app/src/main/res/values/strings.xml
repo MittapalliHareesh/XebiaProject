@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="action_sort_pub">Sort By Published Date</string>
+    <string name="action_sort_upd">Sort By Updated Date</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_activity_image_description">Image MetaData</string>
+    <string name="metaDataInfo"> Image MetaData :- \n\n Title : %1$s \n\n Author Name : %2$s \n\n ID : %3$s \n\n Published Date : %4$s \n\n Updated Date : %5$s</string>
+    <string name="errorMessage">Could not able to load response due to technical error. \n\nPlease try again later., Thanks!!</string>
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.xebia.myapplication.views.MainActivity">
+    <item
+        android:id="@+id/actionSortPub"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_pub"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/actionSortUpd"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_upd"
+        app:showAsAction="never" />
+</menu>
