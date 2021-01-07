@@ -9,6 +9,8 @@ Image metadata should be visible for each picture.
 
 >> In case of HTTP connection displaying Modal dialog with error information.
 
+>> In case if response doesn't have image url, then showing default Android icon.
+
 >> Built application in Kotlin and have used MVVM Architecture,LiveData with co-routines.
 
 
